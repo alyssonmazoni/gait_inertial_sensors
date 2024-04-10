@@ -1,2 +1,2 @@
 # gait_inertial_sensors
-Gait analyssis using inertial sensors.
+Gait analysis using inertial sensors.
